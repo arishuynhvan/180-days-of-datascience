@@ -1,21 +1,21 @@
-# Rules of the 100 Days Of Code Challenge
+# Rules of the 180 Days Of Data Science Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will learn data science for at least an hour every day for the next 180 days.*
 
 #### Start Date
-6th, Jan 2016. 
+8th, Jan 2016. 
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode, and note which date of the challenge I'm on.
-2. If I code at work or for my school assignments, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
+1. I will tweet about my progress every day -> using the hashtag #180DaysOfDataScience, and note which date of the challenge I'm on.
+2. Since this is a mini hell tour, I will count all the time spent learning MOOCs, tutorials or reading articles of Data Science breadth topics: statistics, machine learning, database, computer vision, data visualization, etc.
+3. I will write a blog post everyday and include the link in my tweets for everyone to see my progress
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects or algorithmic challenges for at least 1 hour/day. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If I run out of things to build or feel bored with my current projects, read [FAQ](FAQ.md) or return to [Free Code Camp Curriculum](http://freecodecamp.com/map)).
-6. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 100 days.
-7. I will encourage and support at least two people each day in the #100DaysOfCode challenge on Twitter, Gitter or Slack.
-8. Complete 2 IMPT! tasks before staring the challenge: potential project ideas in a timeline & personal portfolio website
-9. Besides my short log, I will spend at least half an hour each day to document my problem solving approach & learninng points on [my crude Jekyll blog](https://arishuynhvan.github.io/) in the template:
+5. I will work on some programming assignments with R or Python for at least 30 mins/day for some data science problems. I will publish these codes on my Git Repo regardless of how simple they are
+6. I will only skip a day if something important comes up. And when I resume, I won’t count the day I skipped as one of my 180 days.
+7. I will tweet the link to my questions on Quora, Stack Overflow, my blog or other platforms where I had my questions answer by the community.
+8. I will document the resources I used everyday
+9. I will document my problem solving approach & learninng points on [my crude Jekyll blog](https://arishuynhvan.github.io/) based on this template:
 ```
 What is the challenge today?
 
@@ -27,9 +27,8 @@ What did I learn?
 
 What else should I try next (or next time)?
 
-What did I help others with today?
+What are my questions posted on social media platforms?
 
-How do I think/feel about that?
 ```
 
 ## Ideas to make this challenge more effective
